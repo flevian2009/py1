@@ -1,1 +1,1 @@
-print("hello python & checkout")
+print("hello python & git")
